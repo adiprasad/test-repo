@@ -6,3 +6,6 @@ python runner.py --num-bandits 10 --bandit-sampling-mean 4 --bandit-sampling-std
 
 
 I have made this change in the dev branch
+
+
+Adding more changes as requested
