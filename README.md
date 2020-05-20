@@ -9,3 +9,7 @@ I have made this change in the dev branch
 
 
 Adding more changes as requested
+
+Change one devBranchSquashed
+
+Change two - one more bogus commit
