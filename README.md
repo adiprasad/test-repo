@@ -13,3 +13,5 @@ Adding more changes as requested
 Change one devBranchSquashed
 
 Change two - one more bogus commit
+
+"Change made on master"
