@@ -15,3 +15,5 @@ Change one devBranchSquashed
 Change two - one more bogus commit
 
 "Change made on master"
+
+"new change"
