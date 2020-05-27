@@ -19,3 +19,5 @@ Change two - one more bogus commit
 "new change"
 
 "new change 2"
+
+"new change 3"
