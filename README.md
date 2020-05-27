@@ -17,3 +17,5 @@ Change two - one more bogus commit
 "Change made on master"
 
 "new change"
+
+"new change 2"
